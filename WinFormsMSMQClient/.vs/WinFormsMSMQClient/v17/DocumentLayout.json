@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9769B23C-1486-41C2-9B65-F345DFAD02DC}|MsmqDll\\MsmqDll.csproj|d:\\c#\\about beehive projects\\projects\\msmq\\kc_core\\winformsmsmqclient\\msmqdll\\msmqsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9769B23C-1486-41C2-9B65-F345DFAD02DC}|MsmqDll\\MsmqDll.csproj|solutionrelative:msmqdll\\msmqsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9769B23C-1486-41C2-9B65-F345DFAD02DC}|MsmqDll\\MsmqDll.csproj|D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\msmqdll\\msmqreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9769B23C-1486-41C2-9B65-F345DFAD02DC}|MsmqDll\\MsmqDll.csproj|solutionrelative:msmqdll\\msmqreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C9A56E-E4C2-4BD2-A909-5CB0D62896B3}|WinFormsMSMQClient\\WinFormsMSMQClient.csproj|d:\\c#\\about beehive projects\\projects\\msmq\\kc_core\\winformsmsmqclient\\winformsmsmqclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C9A56E-E4C2-4BD2-A909-5CB0D62896B3}|WinFormsMSMQClient\\WinFormsMSMQClient.csproj|solutionrelative:winformsmsmqclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9769B23C-1486-41C2-9B65-F345DFAD02DC}|MsmqDll\\MsmqDll.csproj|D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\msmqdll\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9769B23C-1486-41C2-9B65-F345DFAD02DC}|MsmqDll\\MsmqDll.csproj|solutionrelative:msmqdll\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C9A56E-E4C2-4BD2-A909-5CB0D62896B3}|WinFormsMSMQClient\\WinFormsMSMQClient.csproj|d:\\c#\\about beehive projects\\projects\\msmq\\kc_core\\winformsmsmqclient\\winformsmsmqclient\\callserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C9A56E-E4C2-4BD2-A909-5CB0D62896B3}|WinFormsMSMQClient\\WinFormsMSMQClient.csproj|solutionrelative:winformsmsmqclient\\callserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C9A56E-E4C2-4BD2-A909-5CB0D62896B3}|WinFormsMSMQClient\\WinFormsMSMQClient.csproj|d:\\c#\\about beehive projects\\projects\\msmq\\kc_core\\winformsmsmqclient\\winformsmsmqclient\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C9A56E-E4C2-4BD2-A909-5CB0D62896B3}|WinFormsMSMQClient\\WinFormsMSMQClient.csproj|solutionrelative:winformsmsmqclient\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C9A56E-E4C2-4BD2-A909-5CB0D62896B3}|WinFormsMSMQClient\\WinFormsMSMQClient.csproj|D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\winformsmsmqclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10C9A56E-E4C2-4BD2-A909-5CB0D62896B3}|WinFormsMSMQClient\\WinFormsMSMQClient.csproj|solutionrelative:winformsmsmqclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\WinFormsMSMQClient\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsMSMQClient\\Form1.cs",
+              "ToolTip": "D:\\My Stuff\\Programs\\CODE\\MSMQ\\kc_core\\WinFormsMSMQClient\\WinFormsMSMQClient\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\My Stuff\\Programs\\CODE\\MSMQ\\kc_core\\WinFormsMSMQClient\\WinFormsMSMQClient\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:06:43.592Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\WinFormsMSMQClient\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsMSMQClient\\Form1.Designer.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\WinFormsMSMQClient\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsMSMQClient\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:07:21.521Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\WinFormsMSMQClient\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsMSMQClient\\Form1.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\WinFormsMSMQClient\\Form1.cs",
+              "RelativeToolTip": "WinFormsMSMQClient\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:10:28.399Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CallServer.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\WinFormsMSMQClient\\CallServer.cs",
+              "RelativeDocumentMoniker": "WinFormsMSMQClient\\CallServer.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\WinFormsMSMQClient\\CallServer.cs",
+              "RelativeToolTip": "WinFormsMSMQClient\\CallServer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAewEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:12:56.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Backup.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\MsmqDll\\Backup.cs",
+              "RelativeDocumentMoniker": "MsmqDll\\Backup.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\MsmqDll\\Backup.cs",
+              "RelativeToolTip": "MsmqDll\\Backup.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:32:54.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSMQSender.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\MsmqDll\\MSMQSender.cs",
+              "RelativeDocumentMoniker": "MsmqDll\\MSMQSender.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\MsmqDll\\MSMQSender.cs",
+              "RelativeToolTip": "MsmqDll\\MSMQSender.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:45:34.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSMQReceiver.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\MsmqDll\\MSMQReceiver.cs",
+              "RelativeDocumentMoniker": "MsmqDll\\MSMQReceiver.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\MsmqDll\\MSMQReceiver.cs",
+              "RelativeToolTip": "MsmqDll\\MSMQReceiver.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAawHsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:16:32.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

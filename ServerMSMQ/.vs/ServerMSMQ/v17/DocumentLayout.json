@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\ServerMSMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5AC8E-B323-4A0D-BB71-0D5B9AEFCC88}|ServerMSMQ\\ServerMSMQ.csproj|d:\\c#\\about beehive projects\\projects\\msmq\\kc_core\\servermsmq\\servermsmq\\clientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5AC8E-B323-4A0D-BB71-0D5B9AEFCC88}|ServerMSMQ\\ServerMSMQ.csproj|solutionrelative:servermsmq\\clientmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5AC8E-B323-4A0D-BB71-0D5B9AEFCC88}|ServerMSMQ\\ServerMSMQ.csproj|d:\\c#\\about beehive projects\\projects\\msmq\\kc_core\\servermsmq\\servermsmq\\msmqsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5AC8E-B323-4A0D-BB71-0D5B9AEFCC88}|ServerMSMQ\\ServerMSMQ.csproj|solutionrelative:servermsmq\\msmqsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5AC8E-B323-4A0D-BB71-0D5B9AEFCC88}|ServerMSMQ\\ServerMSMQ.csproj|d:\\c#\\about beehive projects\\projects\\msmq\\kc_core\\servermsmq\\servermsmq\\controllers\\msmqservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5AC8E-B323-4A0D-BB71-0D5B9AEFCC88}|ServerMSMQ\\ServerMSMQ.csproj|solutionrelative:servermsmq\\controllers\\msmqservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5AC8E-B323-4A0D-BB71-0D5B9AEFCC88}|ServerMSMQ\\ServerMSMQ.csproj|d:\\c#\\about beehive projects\\projects\\msmq\\kc_core\\servermsmq\\servermsmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5AC8E-B323-4A0D-BB71-0D5B9AEFCC88}|ServerMSMQ\\ServerMSMQ.csproj|solutionrelative:servermsmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\ServerMSMQ\\ServerMSMQ\\Program.cs",
+              "RelativeDocumentMoniker": "ServerMSMQ\\Program.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\ServerMSMQ\\ServerMSMQ\\Program.cs",
+              "RelativeToolTip": "ServerMSMQ\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAvwDQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:17:34.468Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSMQServerController.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\ServerMSMQ\\ServerMSMQ\\Controllers\\MSMQServerController.cs",
+              "RelativeDocumentMoniker": "ServerMSMQ\\Controllers\\MSMQServerController.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\ServerMSMQ\\ServerMSMQ\\Controllers\\MSMQServerController.cs",
+              "RelativeToolTip": "ServerMSMQ\\Controllers\\MSMQServerController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAvwFQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:20:56.41Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientManagement.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\ServerMSMQ\\ServerMSMQ\\ClientManagement.cs",
+              "RelativeDocumentMoniker": "ServerMSMQ\\ClientManagement.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\ServerMSMQ\\ServerMSMQ\\ClientManagement.cs",
+              "RelativeToolTip": "ServerMSMQ\\ClientManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:28:39.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSMQSender.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\ServerMSMQ\\ServerMSMQ\\MSMQSender.cs",
+              "RelativeDocumentMoniker": "ServerMSMQ\\MSMQSender.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\ServerMSMQ\\ServerMSMQ\\MSMQSender.cs",
+              "RelativeToolTip": "ServerMSMQ\\MSMQSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:28:35.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

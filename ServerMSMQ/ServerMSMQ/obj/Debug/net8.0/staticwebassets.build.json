@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rdu55rrEagou4+1/CJhWjQOoj1IETdNEC4q1HfZOHnM=",
+  "Source": "ServerMSMQ",
+  "BasePath": "_content/ServerMSMQ",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ServerMSMQ.Controllers.MSMQServerController",
+    "Method": "Index",
+    "RelativePath": "MSMQServer",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServerMSMQ.Controllers.MSMQServerController",
+    "Method": "CommonServiceMsmq",
+    "RelativePath": "MSMQServer/CommonServiceMsmq",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clientConfig",
+        "Type": "MsmqDll.MsmqConfig",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServerMSMQ.Controllers.MSMQServerController",
+    "Method": "RegisterQueueOnServer",
+    "RelativePath": "MSMQServer/RegisterQueueOnServer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clientConfig",
+        "Type": "MsmqDll.MsmqConfig",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

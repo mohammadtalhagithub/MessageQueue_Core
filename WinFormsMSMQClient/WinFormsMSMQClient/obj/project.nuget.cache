@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQbI098dBSU=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\About Beehive Projects\\Projects\\MSMQ\\kc_core\\WinFormsMSMQClient\\WinFormsMSMQClient\\WinFormsMSMQClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

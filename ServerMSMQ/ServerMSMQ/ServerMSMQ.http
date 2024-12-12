@@ -1,0 +1,6 @@
+@ServerMSMQ_HostAddress = http://localhost:5189
+
+GET {{ServerMSMQ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

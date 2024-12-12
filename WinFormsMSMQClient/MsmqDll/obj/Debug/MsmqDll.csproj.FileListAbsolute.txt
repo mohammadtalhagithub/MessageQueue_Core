@@ -1,0 +1,16 @@
+D:\My Stuff\Programs\CODE\MSMQ\WinFormsMSMQClient\MsmqDll\obj\Debug\MsmqDll.csproj.AssemblyReference.cache
+D:\My Stuff\Programs\CODE\MSMQ\WinFormsMSMQClient\MsmqDll\obj\Debug\MsmqDll.csproj.CoreCompileInputs.cache
+D:\My Stuff\Programs\CODE\MSMQ\WinFormsMSMQClient\MsmqDll\bin\Debug\MsmqDll.dll
+D:\My Stuff\Programs\CODE\MSMQ\WinFormsMSMQClient\MsmqDll\bin\Debug\MsmqDll.pdb
+D:\My Stuff\Programs\CODE\MSMQ\WinFormsMSMQClient\MsmqDll\bin\Debug\MSMQ.Messaging.dll
+D:\My Stuff\Programs\CODE\MSMQ\WinFormsMSMQClient\MsmqDll\obj\Debug\MsmqDll.csproj.Up2Date
+D:\My Stuff\Programs\CODE\MSMQ\WinFormsMSMQClient\MsmqDll\obj\Debug\MsmqDll.dll
+D:\My Stuff\Programs\CODE\MSMQ\WinFormsMSMQClient\MsmqDll\obj\Debug\MsmqDll.pdb
+D:\My Stuff\Programs\CODE\MSMQ\kc_core\WinFormsMSMQClient\MsmqDll\bin\Debug\MsmqDll.dll
+D:\My Stuff\Programs\CODE\MSMQ\kc_core\WinFormsMSMQClient\MsmqDll\bin\Debug\MsmqDll.pdb
+D:\My Stuff\Programs\CODE\MSMQ\kc_core\WinFormsMSMQClient\MsmqDll\bin\Debug\MSMQ.Messaging.dll
+D:\My Stuff\Programs\CODE\MSMQ\kc_core\WinFormsMSMQClient\MsmqDll\obj\Debug\MsmqDll.csproj.AssemblyReference.cache
+D:\My Stuff\Programs\CODE\MSMQ\kc_core\WinFormsMSMQClient\MsmqDll\obj\Debug\MsmqDll.csproj.CoreCompileInputs.cache
+D:\My Stuff\Programs\CODE\MSMQ\kc_core\WinFormsMSMQClient\MsmqDll\obj\Debug\MsmqDll.csproj.Up2Date
+D:\My Stuff\Programs\CODE\MSMQ\kc_core\WinFormsMSMQClient\MsmqDll\obj\Debug\MsmqDll.dll
+D:\My Stuff\Programs\CODE\MSMQ\kc_core\WinFormsMSMQClient\MsmqDll\obj\Debug\MsmqDll.pdb
